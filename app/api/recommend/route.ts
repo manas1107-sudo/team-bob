@@ -27,7 +27,7 @@ function containsMatch(value: string, options: unknown[]): boolean {
       normalizedValue.includes(normalizedOption)
     );
   });
-}
+} 
 
 function occupationMatches(
   occupation: string,
